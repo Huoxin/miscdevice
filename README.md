@@ -1,4 +1,4 @@
-miscdevice----
+miscdevice
 ==============
 1.misc_dev.c是驱动程序
 2.Makefile用于编译
